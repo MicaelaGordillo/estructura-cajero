@@ -1,9 +1,7 @@
-package bo.edu.ucb.est;
+/*package bo.edu.ucb.est;
 
-/**
- * Hello world!
- *
- */
+Hello world!
+
 public class App 
 {
     public static void main( String[] args )
@@ -11,3 +9,5 @@ public class App
         System.out.println( "Hello World!" );
     }
 }
+
+*/
