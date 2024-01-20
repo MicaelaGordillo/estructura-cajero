@@ -1,5 +1,9 @@
 # Cajero Automático en Java 💳
+
+Java | By Micaela Gordillo
+
 Este proyecto es una implementación simple de un cajero automático en Java. Permite a los usuarios realizar operaciones básicas como consultar saldo, retirar dinero, depositar dinero y más.
+
 ## Funcionalidades
 1. **Ingreso del Cliente:**
    - Se solicita al usuario ingresar su código de cliente.
